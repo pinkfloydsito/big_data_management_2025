@@ -11,7 +11,7 @@ Start the Docker container `docker-compose up --build`.
 Copy `DF2.ipynb` into the `mnt` folder.  
 
 Download the following datasets dataset from the folder supplied via Moodle/Slack and move them into the `mnt` folder:
-NB. If they are already in the repo as you might have done for previosu sessions. No need to download them again. 
+NB. If they are already in the repo as you might have done for previous sessions. No need to download them again. 
 * `amsterdam-listings-2018-12-06.parquet`
 * `pageviews_by_second.parquet`
 * `health_profile_data.snappy.parquet`
