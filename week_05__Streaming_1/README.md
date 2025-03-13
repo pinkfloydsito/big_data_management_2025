@@ -6,9 +6,9 @@
 
 ##### 2) Streaming1 Walkthrough
 
-We use the created docker image from last time. 
+We use the created docker image from last time, renamed the container though. You can also just start last week's container.
 
-Start the Docker container `docker compose up -d`.  
+Start the Docker container `docker-compose up --build`
 
 Copy `Streaming1.ipynb` into the `mnt` folder.  
 
